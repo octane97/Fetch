@@ -53,9 +53,9 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://moonburrow.club:6969/announce
 https://t1.hloli.org:443/announce
 https://tracker1.520.jp:443/announce
-udp://moonburrow.club:6969/announce
 udp://sabross.xyz:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://thouvenin.cloud:6969/announce
@@ -85,5 +85,5 @@ udp://bt2.archive.org:6969/announce
 udp://epider.me:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker.filemail.com:6969/announce
-udp://public-tracker.cf:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://public-tracker.cf:6969/announce
