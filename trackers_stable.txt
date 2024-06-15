@@ -58,9 +58,9 @@ udp://www.torrent.eu.org:451/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://ttr.croco.net:6969/announce
 https://trackers.run:443/announce
 udp://tk2.trackerservers.com:8080/announce
+udp://ttr.croco.net:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.srv00.com:6969/announce
