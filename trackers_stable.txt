@@ -10,6 +10,7 @@ udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.xor.st:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://open.stealth.si:80/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.files.fm:6969/announce
