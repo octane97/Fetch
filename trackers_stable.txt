@@ -58,9 +58,9 @@ http://tracker.k.vu:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://trackers.mlsub.net:443/announce
 udp://tk2.trackerservers.com:8080/announce
-https://tracker.cloudit.top:443/announce
 udp://tracker4.itzmx.com:2710/announce
 http://open.acgtracker.com:1096/announce
+https://tracker.cloudit.top:443/announce
 https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
