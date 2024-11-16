@@ -303,6 +303,7 @@ http://houniao.ddns.net:8888/announce
 http://hzzwly.gq:6969/announce
 http://i.bandito.org/announce.php
 http://incine.ru:6969/announce
+http://ipv4.rer.lol:2710/announce
 http://ipv4.tracker.harry.lu/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -928,6 +929,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://82.65.115.10:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
