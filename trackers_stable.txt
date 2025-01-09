@@ -66,8 +66,8 @@ http://ipv6.rer.lol:6969/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.cloudit.top:443/announce
 udp://tr.movian.eu:6969/announce
-udp://tracker.0x7c0.com:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
