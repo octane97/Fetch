@@ -26,8 +26,8 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://www.nartlof.com:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
-https://http1.torrust-tracker-demo.com:443/announce
 udp://tracker.qu.ax:6969/announce
+https://http1.torrust-tracker-demo.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
