@@ -8,6 +8,7 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
+http://tracker.beeimg.com:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
