@@ -10,6 +10,7 @@ http://tracker.waaa.moe:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.dhitechnical.com:6969/announce
+https://t.213891.xyz:443/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 https://tracker.7471.top:443/announce
 udp://tracker.wildkat.net:6969/announce
@@ -24,7 +25,6 @@ udp://discover.curiousfacts.blog:6969/announce
 udp://tracker.evergarden.uk:1914/announce
 https://tracker.augrains.com:443/announce
 udp://stairs.lat:6969/announce
-https://t.213891.xyz:443/announce
 udp://tracker.corpscorp.online:80/announce
 http://bt2.archive.org:6969/announce
 udp://mail.segso.net:6969/announce
